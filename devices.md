@@ -8,19 +8,11 @@
 
   * Apple iPhone 6 Plus
 
-  * BlackBerry Z30
-
   * Google Nexus 4
 
   * Google Nexus 5
 
   * Google Nexus 6
-
-  * LG Optimus L70
-
-  * Nokia N9
-
-  * Nokia Lumia 520
 
   * Samsung Galaxy S III
 
@@ -32,8 +24,6 @@
 
   * Apple iPad
 
-  * BlackBerry PlayBook
-
   * Google Nexus 10
 
   * Google Nexus 7
@@ -41,6 +31,64 @@
   * Samsung Galaxy Note 3
 
   * Samsung Galaxy Note II
+
+  * iPhone 4
+
+  * iPhone 5/SE
+
+  * iPhone 6/7/8
+
+  * iPhone 6/7/8 Plus
+
+  * iPhone X
+
+  * BlackBerry Z30
+
+  * Nexus 4
+
+  * Nexus 5
+
+  * Nexus 5X
+
+  * Nexus 6
+
+  * Nexus 6P
+
+  * Pixel 2
+
+  * Pixel 2 XL
+
+  * LG Optimus L70
+
+  * Nokia N9
+
+  * Nokia Lumia 520
+
+  * Microsoft Lumia 550
+
+  * Microsoft Lumia 950
+
+  * Galaxy S III
+
+  * Galaxy S5
+
+  * Kindle Fire HDX
+
+  * iPad Mini
+
+  * iPad
+
+  * iPad Pro
+
+  * Blackberry PlayBook
+
+  * Nexus 10
+
+  * Nexus 7
+
+  * Galaxy Note 3
+
+  * Galaxy Note II
 
   * Laptop with touch
 
