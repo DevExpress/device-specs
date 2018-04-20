@@ -4,7 +4,7 @@ var request            = require('request-promise');
 var currentDevicesList = require('./index.json');
 
 
-var JSON_URL    = 'https://chromium.googlesource.com/chromium/src.git/+/master/third_party/WebKit/Source/devtools/front_end/emulated_devices/module.json?format=TEXT'
+var JSON_URL    = 'https://chromium.googlesource.com/chromium/src/third_party/+/master/blink/renderer/devtools/front_end/emulation/module.json?format=TEXT'
 var FILE_PATH   = path.join(__dirname, 'index.json');
 var TITLES_PATH = path.join(__dirname, 'devices.md');
 
