@@ -1,11 +1,11 @@
 var fs                 = require('fs');
 var path               = require('path');
 var request            = require('request-promise');
-var currentDevicesList = require('./index.json');
+var currentDevicesList = require('./emulated-devices.json');
 
 
-var JSON_URL    = 'https://chromium.googlesource.com/chromium/src/third_party/+/master/blink/renderer/devtools/front_end/emulation/module.json?format=TEXT'
-var FILE_PATH   = path.join(__dirname, 'index.json');
+var JSON_URL    = 'https://chromium.googlesource.com/chromium/blink/+/master/Source/devtools/front_end/emulated_devices/module.json?format=TEXT';
+var FILE_PATH   = path.join(__dirname, 'emulated-devices.json');
 var TITLES_PATH = path.join(__dirname, 'devices.md');
 
 function mergeLists (oldList, newList) {
@@ -27,8 +27,8 @@ request({ url: JSON_URL })
         var newDevicesList = content.extensions.map(function (item) {
             return item.device;
         });
-        
-	newDevicesList = mergeLists(currentDevicesList, newDevicesList);
+
+	    newDevicesList = mergeLists(currentDevicesList, newDevicesList);
 
         fs.writeFileSync(FILE_PATH, JSON.stringify(newDevicesList, null, 2));
         

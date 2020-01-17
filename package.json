@@ -1,8 +1,8 @@
 {
   "name": "chrome-emulated-devices-list",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "A list of devices that can be emulated using Chrome DevTools.",
-  "main": "index.json",
+  "main": "index.js",
   "scripts": {
     "test": "echo No tests yet ;-)",
     "update": "node update.js"
