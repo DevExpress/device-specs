@@ -1,13 +1,19 @@
-# chrome-emulated-devices-list
+# device-specs
 
 ## Installation
 ```bash
-npm install chrome-emulated-devices-list
+npm install device-specs
 ```
 
 ## Usage
 ```js
-var devicesList = require('chrome-emulated-devices-list');
+const {
+    emulatedDevices,
+    viewportSizes,
+    getDevicesViewportData,
+    getViewportSize,
+    isValidDeviceName
+} = require('device-specs');
 ```
 
 ## List of known devices
