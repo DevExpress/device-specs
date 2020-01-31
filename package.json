@@ -1,6 +1,6 @@
 {
-  "name": "chrome-emulated-devices-list",
-  "version": "0.2.0",
+  "name": "device-specs",
+  "version": "1.0.0",
   "description": "A list of devices that can be emulated using Chrome DevTools.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndreyBelym/chrome-emulated-devices-list.git"
+    "url": "git+https://github.com/DevExpress/device-specs.git"
   },
   "keywords": [
     "devtools",
@@ -21,9 +21,9 @@
   "author": "AndreyBelym",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AndreyBelym/chrome-emulated-devices-list/issues"
+    "url": "https://github.com/DevExpress/device-specs/issues"
   },
-  "homepage": "https://github.com/AndreyBelym/chrome-emulated-devices-list#readme",
+  "homepage": "https://github.com/DevExpress/device-specs#readme",
   "devDependencies": {
     "request": "^2.81.0",
     "request-promise": "^4.2.0"
