@@ -1883,5 +1883,15 @@
     "portraitWidth": 360,
     "landscapeWidth": 640,
     "name": "ZTE ZMAX Pro"
+  },
+    "reflow400": {
+    "portraitWidth": 320,
+    "landscapeWidth": 256,
+    "name": "Reflow (400%)"
+  },
+    "resizeText": {
+    "portraitWidth": 680,
+    "landscapeWidth": 492,
+    "name": "Resize Text (200%)"
   }
 }
