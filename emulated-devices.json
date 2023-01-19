@@ -269,6 +269,49 @@
     ]
   },
   {
+    "show-by-default": true,
+    "title": "iPhone 12 Pro",
+    "screen": {
+      "horizontal": {
+        "width": 844,
+        "height": 390
+      },
+      "device-pixel-ratio": 3,
+      "vertical": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    "capabilities": [
+      "touch",
+      "mobile"
+    ],
+    "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+    "type": "phone",
+    "modes": [
+      {
+        "title": "default",
+        "orientation": "vertical",
+        "insets": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      {
+        "title": "default",
+        "orientation": "horizontal",
+        "insets": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      }
+    ]
+  },
+  {
     "show-by-default": false,
     "title": "Nexus 4",
     "screen": {
@@ -1952,6 +1995,92 @@
       "mobile"
     ],
     "user-agent": "Mozilla/5.0 (Linux; Android 4.2.2; GT-I9505 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36",
+    "type": "phone",
+    "modes": [
+      {
+        "title": "default",
+        "orientation": "vertical",
+        "insets": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      {
+        "title": "default",
+        "orientation": "horizontal",
+        "insets": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      }
+    ]
+  },
+  {
+    "show-by-default": true,
+    "title": "Samsung Galaxy S20 Ultra",
+    "screen": {
+      "horizontal": {
+        "width": 915,
+        "height": 412
+      },
+      "device-pixel-ratio": 3.5,
+      "vertical": {
+        "width": 412,
+        "height": 915
+      }
+    },
+    "capabilities": [
+      "touch",
+      "mobile"
+    ],
+    "user-agent": "Mozilla/5.0 (Linux; Android 10; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36",
+    "type": "phone",
+    "modes": [
+      {
+        "title": "default",
+        "orientation": "vertical",
+        "insets": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      {
+        "title": "default",
+        "orientation": "horizontal",
+        "insets": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      }
+    ]
+  },
+  {
+    "show-by-default": true,
+    "title": "Samsung Galaxy A51/71",
+    "screen": {
+      "horizontal": {
+        "width": 914,
+        "height": 412
+      },
+      "device-pixel-ratio": 2.625,
+      "vertical": {
+        "width": 412,
+        "height": 914
+      }
+    },
+    "capabilities": [
+      "touch",
+      "mobile"
+    ],
+    "user-agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36",
     "type": "phone",
     "modes": [
       {

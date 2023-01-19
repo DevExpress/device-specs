@@ -10,6 +10,8 @@
 
   * iPhone X
 
+  * iPhone 12 Pro
+
   * Nexus 4
 
   * Nexus 5
@@ -73,6 +75,8 @@
   * Samsung Galaxy S III
 
   * Samsung Galaxy S4
+
+  * Samsung Galaxy S20 Ultra
 
   * Amazon Kindle Fire HDX
 
