@@ -1,6 +1,6 @@
 {
   "name": "device-specs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A list of devices that can be emulated using Chrome DevTools.",
   "main": "index.js",
   "scripts": {
